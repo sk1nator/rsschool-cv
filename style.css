@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+}
+section {
+	max-width: 1300px;
+	margin: 0 auto;
+}
+.image {
+	text-align: center;
+}
